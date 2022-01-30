@@ -6,7 +6,7 @@ import Checkbox from '@material-ui/core/Checkbox';
 
 const Login=()=>{
 
-    const paperStyle={padding : 20, height: '45vh', width: 280, margin: "20px auto"}
+    const paperStyle={padding : 20, height: '50vh', width: 280, margin: "20px auto"}
     const avatarStyle={backgroundColor: '#cd04abd9'}
     const buttonStyle={margin:'8px 0'}
 
